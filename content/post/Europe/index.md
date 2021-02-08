@@ -34,6 +34,8 @@ date: 2020-10-12
 
 [Letterkenny Dotnet Azure User Group](https://www.meetup.com/lk-mug)
 
+[Limerick DotNet Azure User Group](https://www.meetup.com/Limerick-DotNet/)
+
 [Meetup Microsoft Azure Torino](https://www.meetup.com/Meetup-Microsoft-Azure-Torino/)
 
 [Microsoft .NET User Group Odesa](http://www.usergroup.od.ua/)
